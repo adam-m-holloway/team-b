@@ -1,0 +1,16 @@
+{
+  "extraKnownMarketplaces": {
+    "agent-marketplace-stable": {
+      "source": {
+        "source": "github",
+        "repo": "adam-m-holloway/agent-marketplace",
+        "ref": "stable",
+        "path": ".claude-plugin/marketplace-stable.json"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "adr-helper@agent-marketplace-stable": true,
+    "typescript-conventions@agent-marketplace-stable": true
+  }
+}
