@@ -10,7 +10,6 @@
     }
   },
   "enabledPlugins": {
-    "adr-helper@agent-marketplace-stable": true,
     "typescript-conventions@agent-marketplace-stable": true
   }
 }
