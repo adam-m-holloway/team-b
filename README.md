@@ -1,7 +1,8 @@
-# @adam-m-holloway/slugify
+# team-b
 
-Turn any string into a URL-safe slug. Strict TypeScript, ESM only, no runtime
-dependencies.
+A strict TypeScript `slugify` library (package `@adam-m-holloway/slugify`): turn any string into
+a URL-safe slug. ESM only, no runtime dependencies. It is one of the two consumer repos for the
+[agent-marketplace](https://github.com/adam-m-holloway/agent-marketplace) POC.
 
 ## Usage
 
